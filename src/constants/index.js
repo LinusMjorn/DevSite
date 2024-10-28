@@ -247,12 +247,8 @@ import {
            color: "blue-text-gradient",
          },
          {
-           name: "CSS",
+           name: "Typescript",
            color: "green-text-gradient",
-         },
-         {
-           name: "HTML",
-           color: "pink-text-gradient",
          },
        ],
        image: tripguide,
